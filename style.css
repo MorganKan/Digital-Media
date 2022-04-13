@@ -6,4 +6,17 @@ ul {
 
 li {
 display: inline;
+float: left;
+}
+a {
+color:#0f5298;
+text-decoration:none;
+display: block;
+padding: 8px;
+background-color: #ffc0cb;
+}
+
+li a:hover {
+background-color: #111;
+color: #fdf6e3;
 }
